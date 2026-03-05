@@ -1,4 +1,3 @@
-cat > main.c << 'EOF'
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"
 
@@ -17,4 +16,3 @@ int main()
         sleep_ms(1000);
     }
 }
-EOF

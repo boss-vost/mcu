@@ -2,7 +2,7 @@ cmake_minimum_required(VERSION 3.13)
 
 include(pico_sdk_import.cmake)
 
-project(02_printf)
+project(02-on-of)
 
 pico_sdk_init()
 
